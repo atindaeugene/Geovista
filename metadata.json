@@ -1,0 +1,7 @@
+{
+  "name": "GeoVista Group Redesign",
+  "description": "A modern, responsive redesign for GeoVista Group featuring high-impact visuals, clear USPs, and a strategic portfolio showcase tailored for GIS, urban planning, and surveying services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
